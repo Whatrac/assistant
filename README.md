@@ -1,7 +1,7 @@
 <div align="center">
 
 
-#Health & Habits Tracker Bot
+# Health & Habits Tracker Bot
 
 
 ## О проекте 
